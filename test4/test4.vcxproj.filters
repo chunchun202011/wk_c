@@ -15,15 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="student.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
     <ClCompile Include="test.c">
-      <Filter>Resource Files</Filter>
-    </ClCompile>
-    <ClCompile Include="read.c">
       <Filter>Resource Files</Filter>
     </ClCompile>
   </ItemGroup>
